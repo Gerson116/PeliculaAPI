@@ -1,0 +1,3 @@
+
+FEMENINO='F'
+MASCULINO='M'
